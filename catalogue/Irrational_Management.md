@@ -3,26 +3,34 @@
 
 # Irrational Management
 
-**Also Known As:** n/a
+**Also Known As:** 
+
+n/a
 
 
 ## Summary
 
-The manager (or management team) of one or more development projects is unable to make decisions, due to a personality defect or the result of an obsession with details.  When faced with a crisis, the manager's decisions are knee-jerk reactions rather than carefully thought-out strategies or tactical actions. These reactions cause the project to thrash and to further problems. 
+Irrational Management is an anti-pattern in which a manager or management team is unable to make consistent and rational decisions. This behavior may stem from personality traits, lack of confidence, or an obsessive focus on details. When confronted with problems or crises, decisions tend to be reactive and impulsive rather than strategic or well-considered. These knee-jerk reactions cause the project to thrash, amplifying instability and generating additional problems instead of resolving existing ones.
 
 
 ## Symptoms
 
- - plans for iterations change goals/topics frequently
- - TBD
+-	Iteration or release plans frequently change goals or focus.
+-	Decisions are reversed shortly after being made.
+-	Management reacts to crises with ad-hoc directives.
+-	Priorities shift unpredictably.
+-	Team members are confused about current objectives.
+-	Work is repeatedly started, abandoned, and restarted.
+-	Increased stress and frustration within the team.
+
 
 ## Specific To
 
-any
+Any
 
 ## Related Anti-patterns
 
-TBD
+n/a
 
 ## Sources
 

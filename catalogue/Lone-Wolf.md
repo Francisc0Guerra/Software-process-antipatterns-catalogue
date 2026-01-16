@@ -23,6 +23,7 @@ A person disregarding other contributors, decisions made, plans and communicatio
 
 ## Causes
 
+
 ## (Refactored) Solution
 
 ## Variations (optional) 
